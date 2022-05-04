@@ -23,5 +23,5 @@ Please feel free to follow me here or on social media. I hope you will find my g
 📸 → <a href="https://www.instagram.com/aleksandar_trpkovski/">Instagram</a>
 </div>
 <div align="center">
-📝 → <a href="https://www.instagram.com/aleksandar_trpkovski/">My Blog</a>
+📝 → <a href="https://www.trpkovski.com/">My Blog</a>
 </div>
