@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://res.cloudinary.com/suv4o/image/upload/q_auto,f_auto,w_750,e_sharpen:100/v1618489761/blog/portrait"/>
+  <img src="https://res.cloudinary.com/suv4o/image/upload/q_auto,f_auto,w_750,e_sharpen:100/v1744618697/blog/emoji-hi-aleks_vvzmnd"/>
 </p>
 
 <h1 align="center">Hello, I'm Aleks 👋🏻</h1>
